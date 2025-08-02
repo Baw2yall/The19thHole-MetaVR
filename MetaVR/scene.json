@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "name": "GolfTarget",
+      "components": {
+        "LightBurst": {},
+        "Transform": { "position": [0,1,10] }
+      }
+    },
+    {
+      "name": "GolfBallLauncher",
+      "components": {
+        "GolfBallLauncher": {}
+      }
+    },
+    {
+      "name": "CartDrive",
+      "components": {
+        "CartDrive": {}
+      }
+    },
+    {
+      "name": "VIPDoor",
+      "components": {
+        "Transform": { "position": [5,0,0] }
+      }
+    },
+    {
+      "name": "CodeUnlock",
+      "components": {
+        "CodeUnlock": {}
+      }
+    },
+    {
+      "name": "MusicPlayer",
+      "components": {
+        "MusicPlayer": {}
+      }
+    }
+  ]
+}
